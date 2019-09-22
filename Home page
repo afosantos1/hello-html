@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>My Website Titles</title>
+  </head>
+  
+  <body>
+    <h1>RASA PROPERTIES</h1>
+    <p>Luxury Apartments for Rent <br /> Managed by Richard, Andre, Silvia, and Afonso</p>
+    <hr />
+    <p>Available in NJ and NY</p>
+    <a href="https://www.myfirstapartment.com/2017/02/making-call-booking-apartment-viewing-appointment/">Schedule a Viewing</a> 
+    <p></p>
+    <a href="http://www.nychdc.com/pages/Now-Renting.html">Application</a>
+    <p></p>
+    <a href="https://edwardrose.securecafe.com/residentservices/apartmentsforrent/userlogin.aspx">Resident Services</a>
+    
+  </body>
+
+</html>
+
