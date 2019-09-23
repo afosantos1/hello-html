@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <html>
+<body style="background-color:#afafaf;">
   <head>
     <title>My Website Titles</title>
   </head>
@@ -10,13 +11,22 @@
     <p>Luxury Apartments for Rent <br /> Managed by Richard, Andre, Silvia, and Afonso</p>
     <hr />
     <p>Available in NJ and NY</p>
-    <a href="https://www.myfirstapartment.com/2017/02/making-call-booking-apartment-viewing-appointment/">Schedule a Viewing</a> 
+    <a href="https://www.google.com"><p align="right">Schedule a Viewing</a>
     <p></p>
-    <a href="http://www.nychdc.com/pages/Now-Renting.html">Application</a>
+    <a href="https://www.google.com"><p align="right">Application</a>
     <p></p>
-    <a href="https://edwardrose.securecafe.com/residentservices/apartmentsforrent/userlogin.aspx">Resident Services</a>
+    <a href="https://www.google.com"><p align="right">Resident Services</a>
+    <hr />
+    <img src="https://arbor.com/wp-content/uploads/2018/02/Small-Building-Renters-Growing-resize.jpg" alt="Simply Easy Learning" width="300"
+         height="200">
     
   </body>
+  <footer>
+    <p></p>
+    <a href="https://www.ucvts.tec.nj.us/">UCVTS Homepage</a>
+    <p></p>
+    <a href="https://www.ucvts.tec.nj.us/site/Default.aspx?PageType=19">AIT Homepage</a>
+  </footer>
 
 </html>
 
