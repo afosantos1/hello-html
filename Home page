@@ -3,22 +3,55 @@
 <html>
 <body style="background-color:#afafaf;">
   <head>
+    <style type="text/css">
+    ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    a:link, a:visited{
+      display: block;
+      font-weight: bold;
+      color: #ffffff;
+      background-color:#95bf21;
+      width: 120px;
+      text-align: center;
+      padding: 4px;
+      text-transform: uppercase;
+      text-decoration: none;
+      
+    }
+    a:hover, a:active{
+      background-color: #7a991a
+    }
+      li{
+        float: left;
+      }
+    </style>
     <title>My Website Titles</title>
   </head>
   
   <body>
+  <ul>
+    <li><a href="#Scheduleaviewing">Schedule A Viewing</a></li>
+    <li><a href="#application">Application</a></li>
+    <li><a href="#residentservices">Resident Services</a></li>
+  </ul>
+  <hr></hr>
     <h1>RASA PROPERTIES</h1>
     <p>Luxury Apartments for Rent <br /> Managed by Richard, Andre, Silvia, and Afonso</p>
     <hr />
     <p>Available in NJ and NY</p>
-    <a href="https://www.google.com"><p align="right">Schedule a Viewing</a>
-    <p></p>
-    <a href="https://www.google.com"><p align="right">Application</a>
-    <p></p>
-    <a href="https://www.google.com"><p align="right">Resident Services</a>
+
     <hr />
     <img src="https://arbor.com/wp-content/uploads/2018/02/Small-Building-Renters-Growing-resize.jpg" alt="Simply Easy Learning" width="300"
          height="200">
+    <br></br>
+    <br></br>
+    <br></br>
+    
+    
     
   </body>
   <footer>
@@ -29,4 +62,3 @@
   </footer>
 
 </html>
-
