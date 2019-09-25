@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+<body style="background-color:#ff8080;">
+  <head>
+    <title>My Website Titles</title>
+  </head>
+  
+  <body>
+  <h1><i>Maintenance Request</h1></i>
+  <p>Maintenance requets should be requested if there are any problems in the apartment that need to be solved. The following form should be filled out for a maintenance request.</p>
+  <a href="maintenancerequest"><img src="Images/request.pdf" /></a>
+  <hr></hr>
+  <p>If it is water work please visit the link below</p>
+  <a href="google.com">Water Work Problems</a>
+  <br></br>
+  <p> If your problem is anything else besides water damage please visit the link below.</p>
+  <a href="google.com">Maintenance Problems</a>
+  <br></br>
+  <br></br>
+   <footer>
+    <p></p>
+    Here is a link to
+    <a href="Homepage.html">Back To Home Page</a>
+  </footer>
 
