@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 
 <html>
-<body style="background-color:#ff8080;">
+<body style="background-color:#ff808080;">
   <head>
     <title>My Website Titles</title>
   </head>
   
   <body>
-  <h4> Resident Services</h4>
-  
+  <h2><u> Resident Services</h2></u>
+  <p> Click the Link Below if You Need to Place a Maintenance Request</p>
+  <a href="Maintenance Request">Book a Maintenance Request</a>
+  <p> If any problems are noticed in your home please request for a maintenance job to be done</p>
+  <hr></hr>
+  <br></br>
+  <p>Click the Link Below if You Need to Make a Payment</p>
+  <a href="Make a Payment">Make a Payment</a>
+  <p>If any money is owed please be responsible with your payments or a phone call will be recieved.</p>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+   <footer>
+    <p></p>
+    Here is a link to
+    <a href="Homepage.html">Back To Home Page</a>
+  </footer>
