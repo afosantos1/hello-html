@@ -6,6 +6,9 @@ p {
   text-align: center;
   font-size: 15px;
 }
+ol {
+    text-align: center;
+}
 
 img {
   display: block;
