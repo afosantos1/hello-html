@@ -1,0 +1,81 @@
+* {
+  margin: 20;
+  background: rgb(211,211,211);
+}
+p {
+  text-align: center;
+  font-size: 15px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a {
+  color: limegreen;
+}
+
+
+.urd {
+  color: black;
+  font-weight: bold;
+}
+
+.bld {
+  font-style: comfortaa;
+  background-color: rgb(81, 90, 90);
+}
+
+.ita {
+  align-content: center;
+  font-size: 25px;
+}
+
+#intro {
+  padding: 25px 50px 75px;
+  float: right;
+}
+
+#top {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 550;
+}
+
+#dwn {
+       height: 100px;
+       width: 125px;
+       background-color: limegreen;
+}
+
+a[href*="google"] {
+  color: limegreen;
+  background-color: rgb(211,211,211);
+}
+
+a:hover {
+  color: rgb(248, 219, 251);
+}
+
+body > p {
+  font-weight: 450;
+  font-align: center;
+  font: arial;
+}
+  
+  
+           
+
+
+
+
+
+
+
+
+
+       
+     
+
